@@ -1,1 +1,3 @@
 'test the Github quickstart to the naveen
+Git Rebasing: 
+  Branching means splitting from the master branch so that you can work separately without affecting the main code and other developers. On creating a Git repository, by default, we are assigned the master branch. As we start making commits, this master branch keeps updating and points to the last commit made to the repository.
